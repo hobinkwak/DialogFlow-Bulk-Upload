@@ -1,0 +1,55 @@
+[
+  {
+    "value": "파이썬",
+    "synonyms": [
+      "파이썬",
+      "파이선",
+      "python",
+      "Python",
+      "파이톤"
+    ]
+  },
+  {
+    "value": "넘파이",
+    "synonyms": [
+      "넘파이",
+      "넘피",
+      "numpy",
+      "Numpy"
+    ]
+  },
+  {
+    "value": "판다스",
+    "synonyms": [
+      "판다스",
+      "판다",
+      "pandas",
+      "Pandas"
+    ]
+  },
+  {
+    "value": "사이킷런",
+    "synonyms": [
+      "사이킷런",
+      "싸이킷런",
+      "사이킷 런",
+      "싸이킷 런",
+      "sklearn",
+      "Sklearn",
+      "Scikit-Learn",
+      "scikit-Learn",
+      "scikit-learn",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "value": "파이토치",
+    "synonyms": [
+      "파이토치",
+      "pytorch",
+      "Pytorch",
+      "PyTorch",
+      "파이 토치"
+    ]
+  }
+]

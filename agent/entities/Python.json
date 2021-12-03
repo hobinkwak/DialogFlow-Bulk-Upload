@@ -1,0 +1,9 @@
+{
+  "id": "857a933f-c18c-438d-9ff5-f9b573a96f34",
+  "name": "Python",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
