@@ -20,3 +20,11 @@ main(generate_intents=True, catch_entity=False)
 # entity 파일이 있다는 전제하에
 main(generate_intents=False, catch_entity=True)
 ```
+
+## Requirements
+
+```
+numpy
+pandas
+glob
+```
